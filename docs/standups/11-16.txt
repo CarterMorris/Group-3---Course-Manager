@@ -1,0 +1,11 @@
+Name: Ben Wang
+
+What have you done since yesterday?
+    - Finished Jira planning board for sprint 1
+
+What are you planning on doing today?
+    - Create outline of tasks that needs to be accomplished for sprint 1
+    - Communicate with teammates about the detail of the tasks
+
+Any impediments or stumbling blocks?
+    - None
