@@ -38,3 +38,17 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - N/A
+
+What are you planning on doing today?
+    - Create github repo and add all members + TA
+    - Join Jira board
+    - Organize Sprints
+    - Begin messing around in Figma to explore possible app layouts
+
+Any impediments or stumbling blocks?
+    - None
