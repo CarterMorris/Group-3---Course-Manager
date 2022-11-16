@@ -25,3 +25,16 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - N/A
+
+What are you planning on doing today?
+    - Join Project Repo on GitHub
+    - Delve into Figma and figure out app design
+    - Create a Jira account, and join group board
+
+Any impediments or stumbling blocks?
+    - None
