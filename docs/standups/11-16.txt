@@ -9,3 +9,16 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Finalized planning with group members for division of user stories into sprints
+
+What are you planning on doing today?
+    - Specify tasks required to complete different user stories
+    - Create outline of tasks for sprint 2
+
+Any impediments or stumbling blocks?
+    - None
