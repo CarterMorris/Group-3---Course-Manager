@@ -31,3 +31,15 @@ What have you done since yesterday?
    
 What are you planning on doing today?
     - Choose a task and get started
+
+
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - Laid out objectives for the first sprint (based on selected user stories for sprint 1)
+   
+What are you planning on doing today?
+    - Choose which objective to tackle first
+
+Any impediments or stumbling blocks?
+    - None
