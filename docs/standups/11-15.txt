@@ -1,14 +1,13 @@
 TEMPLATE:
 
-Name: <Your Name>
+Name: Eddy Chen
 
 What have you done since yesterday?
-    - <What you have done>
+    - N/A
 
 What are you planning on doing today?
-    - <What you plan on doing 1...>
-    - <What you plan on doing 2...>
-    - <What you plan on doing 3...>
+    - Familiarize Myself with Jira
+    - Check out Github
 
 Any impediments or stumbling blocks?
     - None
