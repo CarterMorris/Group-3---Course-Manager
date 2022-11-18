@@ -8,3 +8,16 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Defined tasks required for sprint 1 and 2 on Jira
+
+What are you planning on doing today?
+    - Explore Firebase database and what methods/funcitionality it offers
+    - Explore Android Studio presets (ex. "login_activity") and ways to input text
+
+Any impediments or stumbling blocks?
+    - None
