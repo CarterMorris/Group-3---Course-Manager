@@ -1,10 +1,11 @@
 Name: Ben Wang
 
 What have you done since yesterday?
-    - 
+    - configure android studio to work with github
+    - push the first commit (default project template) onto github
 
 What are you planning on doing today?
-    - 
+    - help teammates configure android studio & github
 
 Any impediments or stumbling blocks?
     - None
