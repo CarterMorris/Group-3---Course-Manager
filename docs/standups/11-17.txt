@@ -22,3 +22,14 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - Configured my Android Studio application to work with GitHub
+
+What are you planning on doing today?
+    - - Looked into different color schemes
+
+Any impediments or stumbling blocks?
+    - None
