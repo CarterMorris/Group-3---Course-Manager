@@ -1,0 +1,11 @@
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Synched Github to Android studio and pulled the default LoginActivity made
+
+What are you planning on doing today?
+    - Add functionality to "Sign in or Register Button" to open a new activity for students (default)
+    - Figure out colour scheme
+
+Any impediments or stumbling blocks?
+    - Need to begin the database work to determine if after clicking the "Sign in or Regsiter" button we want to open an activity for students or admins
