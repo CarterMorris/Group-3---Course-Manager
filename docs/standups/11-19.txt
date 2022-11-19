@@ -1,0 +1,11 @@
+Name: Ben Wang
+
+What have you done since yesterday?
+    - Fixed colour scheme for Button on student landing page
+    - Fixed colour scheme for  Button on login page
+    
+What are you planning on doing today?
+    - Add another button to separate login and register
+
+Any impediments or stumbling blocks?
+    - None
