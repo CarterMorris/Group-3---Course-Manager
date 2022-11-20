@@ -9,3 +9,17 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Created a new activity responsible for student functionaity of the app
+    - Created drawable file to set a background gradient on the login and student landing page
+    - Added functionality to the "sign-in or Register" button to open the new student activity
+    
+What are you planning on doing today?
+    - Separate the login and register features for a better user experience and add functionality to both buttons
+
+Any impediments or stumbling blocks?
+    - Database creation for admin login and student/admin sign in
