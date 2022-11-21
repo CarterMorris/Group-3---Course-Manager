@@ -1,1 +1,12 @@
+Name: Carter Morris
 
+What have you done since yesterday?
+    - Added an Admin landing page with a separate theme (new drawable for background)
+    - Added back buttons on the student and admin landing pages to go back to the login page
+    - Added functionality to the login in button so that if a valid login is entered, the user is sent to the corresponding page
+    
+What are you planning on doing today?
+    - Fix back button bugs
+
+Any impediments or stumbling blocks?
+    - None
