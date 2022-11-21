@@ -23,3 +23,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - Database creation for admin login and student/admin sign in
+
+Name: Eddy Chen
+
+What have you done since yesterday?
+    - Created a separate register button to differentiate it from the login button
+    - Created a database with Firebase, and added it to the app
+    
+What are you planning on doing today?
+    - Implement register button to have interaction with database
+   
+Any impediments or stumbling blocks?
+    - None
