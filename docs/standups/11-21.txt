@@ -1,0 +1,10 @@
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Fixed Back button bugs that would allow a user to sign in with any random login info after signing in properly and pressing the back button
+    
+What are you planning on doing today?
+    - Implement behaviour for when the user input wrong information and tries to sign in (wrong username wrong password, right username wrong password, wrong username right password)
+
+Any impediments or stumbling blocks?
+    - None
