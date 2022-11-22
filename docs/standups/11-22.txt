@@ -1,1 +1,11 @@
+Name: Ben Wang
 
+What have you done since yesterday?
+    - Updated jira board
+    - Started new sprint
+    
+What are you planning on doing today?
+    - Choose a new task to get started on
+
+Any impediments or stumbling blocks?
+    - None
