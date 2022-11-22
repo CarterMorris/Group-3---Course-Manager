@@ -9,3 +9,16 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Worked with Ben to implement the register feature and behaviour of the app when incorrect credentials are added
+    - Uptaded Jira tasks for finishing sprint 1
+    - Started sprint 2
+    
+What are you planning on doing today?
+    - Begin refractoring the LoginActivity code to make it open to testing
+
+Any impediments or stumbling blocks?
+    - None
