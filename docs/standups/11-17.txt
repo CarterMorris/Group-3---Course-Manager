@@ -34,3 +34,14 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Eddy Chen
+
+What have you done since yesterday?
+    - Added personal Github token to Android Studio
+
+What are you planning on doing today?
+    - N/A
+
+Any impediments or stumbling blocks?
+    - None
