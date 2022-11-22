@@ -1,5 +1,3 @@
-TEMPLATE:
-
 Name: Eddy Chen
 
 What have you done since yesterday?
