@@ -21,3 +21,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Eddy Chen
+
+What have you done since yesterday?
+    - None
+    
+What are you planning on doing today?
+    - Plan responsibilities for next sprint
+
+Any impediments or stumbling blocks?
+    - STAB52 Midterm
