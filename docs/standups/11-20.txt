@@ -10,3 +10,16 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Ben Wang
+
+What have you done since yesterday?
+    - Fixed crashes associated with the sign in and register buttons
+    
+What are you planning on doing today?
+    - Complete Functionality for the sign up button
+
+Any impediments or stumbling blocks?
+    - None
+
