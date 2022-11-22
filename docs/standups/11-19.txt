@@ -24,6 +24,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
     - Database creation for admin login and student/admin sign in
 
+
 Name: Eddy Chen
 
 What have you done since yesterday?
