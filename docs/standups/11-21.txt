@@ -13,7 +13,6 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - Fixed crashes associated with the sign in and register buttons
     - Finished implementing error messages for sign in button
     - Implemented functionalities of the register button to add new user to Firebase and prevent duplicate accounts
     
