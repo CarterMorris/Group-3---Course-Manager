@@ -10,6 +10,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
     - Need to begin the database work to determine if after clicking the "Sign in or Regsiter" button we want to open an activity for students or admins
 
+
 Name: Ben Wang
 
 What have you done since yesterday?
@@ -20,6 +21,7 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
 
 Name: Faizan Naseer
 
