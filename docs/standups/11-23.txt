@@ -1,0 +1,10 @@
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - Found a bug within the login screen
+    
+What are you planning on doing today?
+    - Attemp to get rid of the bug
+
+Any impediments or stumbling blocks?
+    - None
