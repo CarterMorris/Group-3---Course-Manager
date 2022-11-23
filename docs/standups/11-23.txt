@@ -8,3 +8,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+
+Name: Eddy Chen
+
+What have you done since yesterday?
+    - Created a trial version of a method to store course data on the database
+
+What are you planning on doing today?
+    - Implement read and write features to the new part of the database
+
+Any impediments or stumbling blocks?
+    - How does one dynamically create a table of values on an android screen?
