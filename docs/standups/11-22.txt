@@ -35,3 +35,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - N/A
+    
+What are you planning on doing today?
+    - Briefly go over the functionality of the Login and Register features
+
+Any impediments or stumbling blocks?
+    - None
+    
