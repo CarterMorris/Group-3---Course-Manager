@@ -20,3 +20,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - How does one dynamically create a table of values on an android screen?
+
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Learned about Unicode fullstop characters regarding the bug in the username field
+
+What are you planning on doing today?
+    - Attempt to find a work around to the period fullstop character
+
+Any impediments or stumbling blocks?
+    - None
