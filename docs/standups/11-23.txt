@@ -32,3 +32,15 @@ What are you planning on doing today?
 
 Any impediments or stumbling blocks?
     - None
+    
+Name: Ben Wang
+
+What have you done since yesterday?
+    - Deleted unused imports
+    - Changed email field to username
+
+What are you planning on doing today?
+    - Discuss how to implement course into our database with teammates
+
+Any impediments or stumbling blocks?
+    - None
