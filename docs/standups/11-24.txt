@@ -1,13 +1,14 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Logging in will now display username in Student Landing page
+    - Created framework for dynamically displaying courses in a table
 
 What are you planning on doing today?
-    - None
+    - Finish course table
 
 Any impediments or stumbling blocks?
-    - None
+    - How do I firebase?
 
 
 Name: Ben Wang
