@@ -26,10 +26,11 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Created a class to represent a course object with a course code, arrayList for prerequisites, and booleans for offering sessions
+    - Began creating the admin page that will be implemented to generate a new course and add it to the database
 
 What are you planning on doing today?
-    - None
+    - Begin implementing the admin add course feature
 
 Any impediments or stumbling blocks?
     - None
