@@ -41,7 +41,7 @@ What have you done since yesterday?
     - None
 
 What are you planning on doing today?
-    - None
+    - Look through commits and where the project is at
 
 Any impediments or stumbling blocks?
     - None
