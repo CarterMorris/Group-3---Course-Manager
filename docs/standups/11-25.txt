@@ -1,10 +1,11 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Table now correctly pulls course data from database
 
 What are you planning on doing today?
-    - None
+    - Replicate table for Courses wanted
+    - Start on course adding (student side)
 
 Any impediments or stumbling blocks?
     - None
