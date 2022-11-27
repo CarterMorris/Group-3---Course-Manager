@@ -13,10 +13,10 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Fixed variable names so the student side can read from the admin input on firebase
 
 What are you planning on doing today?
-    - None
+    - Fix bugs associated with student second fragment
 
 Any impediments or stumbling blocks?
     - None
