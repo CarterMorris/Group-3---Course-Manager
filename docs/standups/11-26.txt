@@ -1,10 +1,10 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Students can now and and delete courses from their list
 
 What are you planning on doing today?
-    - None
+    - Add Admin functionality
 
 Any impediments or stumbling blocks?
     - None
