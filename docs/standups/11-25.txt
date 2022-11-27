@@ -14,10 +14,11 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Deleted button blocking next on student page
+    - Fixed some colour schemes
 
 What are you planning on doing today?
-    - None
+    - fix variable names
 
 Any impediments or stumbling blocks?
     - None
