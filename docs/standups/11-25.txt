@@ -26,10 +26,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Implemented the add course feature allowing admins to add a course with a course code and offering sessions
 
 What are you planning on doing today?
-    - None
+    - Add the framework and implementation for adding prerequisites to courses in the database
 
 Any impediments or stumbling blocks?
     - None
