@@ -17,8 +17,8 @@ What have you done since yesterday?
     - None
 
 What are you planning on doing today?
-    - None
-
+    - Read through new commits from teammates
+    
 Any impediments or stumbling blocks?
     - None
     
