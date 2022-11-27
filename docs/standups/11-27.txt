@@ -13,10 +13,11 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Fixed bug where newly registered users would not have their username displayed on first fragment
+    - Fixed bug where newly registered users would crash the app when they add a course
 
 What are you planning on doing today?
-    - None
+    - Fix more colour scheme stuff in thes xml files
 
 Any impediments or stumbling blocks?
     - None
