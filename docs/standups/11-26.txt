@@ -25,10 +25,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Created the framework and functionality of the add prerequisite feature when an admin is adding a course to the database
 
 What are you planning on doing today?
-    - None
+    - Input filter the create course fragement so you can't add a course with no sessions, no name, etc.
 
 Any impediments or stumbling blocks?
     - None
