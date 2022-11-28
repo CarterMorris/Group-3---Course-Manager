@@ -28,10 +28,11 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Fixed behaviour of course addition as an admin where you could add a course without specifying any offering sessions
 
 What are you planning on doing today?
-    - None
+    - Determine if only a "valid" course code can be input and what a coniditions are included in a valid input (6 chars, last 2 numbers, 4th letter A,B,C,D)
+    - Add a course name section if required
 
 Any impediments or stumbling blocks?
     - None
