@@ -1,7 +1,9 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Too many courses listed by the student will no longer overflow past the bottom of the page.
+    - Typing a period into the username field will no longer cause a crash.
+    - Tables in Student side are now properly coloured.
 
 What are you planning on doing today?
     - None
