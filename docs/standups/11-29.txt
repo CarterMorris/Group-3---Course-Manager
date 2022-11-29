@@ -40,8 +40,8 @@ What have you done since yesterday?
     - None
 
 What are you planning on doing today?
-    - None
+    - Delve into algorithm for generating student schedule
 
 Any impediments or stumbling blocks?
-    - None
+    - Still unsure of how the algorithm will be implemented into android studio, using the database
     
