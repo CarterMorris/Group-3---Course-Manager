@@ -1,10 +1,10 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - N/A
 
 What are you planning on doing today?
-    - None
+    - Make table scroll in Student Fragment 2
 
 Any impediments or stumbling blocks?
     - None
