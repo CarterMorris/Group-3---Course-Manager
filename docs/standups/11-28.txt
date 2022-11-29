@@ -26,10 +26,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Tested the input filtering of entering courses for an admin
 
 What are you planning on doing today?
-    - None
+    - Prepare for sprint 3
 
 Any impediments or stumbling blocks?
     - None
