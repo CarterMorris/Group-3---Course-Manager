@@ -28,7 +28,7 @@ What have you done since yesterday?
     - None
 
 What are you planning on doing today?
-    - None
+    - Add a course name component to the admin course addition page
 
 Any impediments or stumbling blocks?
     - None
