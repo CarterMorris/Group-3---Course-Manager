@@ -1,10 +1,11 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Made table scroll in student side
+    - Fixed colours for student fragment 2
 
 What are you planning on doing today?
-    - None
+    - Create table to display all courses for admin
 
 Any impediments or stumbling blocks?
     - None
