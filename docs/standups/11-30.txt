@@ -29,10 +29,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Made admin page launch with a list of courses in the database each with an edit and delete button (not yet implemented)
 
 What are you planning on doing today?
-    - None
+    - Begin implementing course editing and deletion
 
 Any impediments or stumbling blocks?
     - None
