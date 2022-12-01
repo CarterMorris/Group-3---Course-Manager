@@ -13,10 +13,10 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - Non
+    - Learn about the Model view presenter structure
 
 What are you planning on doing today?
-    - None
+    - Begin work on refactoring the login module according to MVP
 
 Any impediments or stumbling blocks?
     - Non
