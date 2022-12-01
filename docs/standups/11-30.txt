@@ -41,11 +41,12 @@ Any impediments or stumbling blocks?
 Name: Faizan Naseer
 
 What have you done since yesterday?
-    - None
+    - Started the algorithm for course scheduling
 
 What are you planning on doing today?
-    - None
-
+    - Finish off algorithm for course scheduling
+    - Start integrating it into android studio with the database
+    
 Any impediments or stumbling blocks?
     - None
     
