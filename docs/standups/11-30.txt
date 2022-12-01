@@ -14,10 +14,13 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Refactored the login module according to MVP
+        - refactored LoginActivity (view)
+        - created/refactored LoginPresenter
+        - created LoginModel
 
 What are you planning on doing today?
-    - None
+    - Learn about how to use mockito
 
 Any impediments or stumbling blocks?
     - None
