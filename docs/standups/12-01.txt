@@ -1,0 +1,48 @@
+Name: Eddy Chen
+
+What have you done since yesterday?
+    - None
+
+What are you planning on doing today?
+    - None
+
+Any impediments or stumbling blocks?
+    - None
+
+
+Name: Ben Wang
+
+What have you done since yesterday?
+    - None
+
+What are you planning on doing today?
+    - None
+
+Any impediments or stumbling blocks?
+    - None
+    
+
+Name: Carter Morris
+
+What have you done since yesterday?
+    - Implemented ALL features of course editing (changing all fields and updating it in firebase)
+    - Implemented ALL features of course deletion including adding a popup for confirmation and removing the deleted course for all other courses' prerequisite lists
+    - Therefore completed the entire user story #6 for admin course editing and deletion
+
+What are you planning on doing today?
+    - nothing I worked for 11 hours in one day on this, please
+
+Any impediments or stumbling blocks?
+    - Sanity
+
+
+Name: Faizan Naseer
+
+What have you done since yesterday?
+    - None
+
+What are you planning on doing today?
+    - None
+
+Any impediments or stumbling blocks?
+    - None
