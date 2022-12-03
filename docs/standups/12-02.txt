@@ -37,10 +37,10 @@ Any impediments or stumbling blocks?
 Name: Faizan Naseer
 
 What have you done since yesterday?
-    - None
+    - Worked on algorithm
 
 What are you planning on doing today?
-    - None
+    - Finish algorithm and implement on android 
 
 Any impediments or stumbling blocks?
-    - None
+    - Firebase Integration
