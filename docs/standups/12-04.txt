@@ -1,13 +1,13 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Refactored code to call from database only once
 
 What are you planning on doing today?
     - None
 
 Any impediments or stumbling blocks?
-    - None
+    - Could not figure out list view
 
 
 Name: Ben Wang
