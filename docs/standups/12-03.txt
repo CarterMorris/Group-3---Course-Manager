@@ -13,10 +13,12 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - completed the functionality for the admin delete course button so that it also deletes the course from all student accounts
+    - refactored the code for third student fragment to make it actually function as intended
+    - permanently fixed small bug for login
 
 What are you planning on doing today?
-    - None
+    - Do some testing for login
 
 Any impediments or stumbling blocks?
     - None
