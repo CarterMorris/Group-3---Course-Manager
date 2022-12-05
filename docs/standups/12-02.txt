@@ -13,11 +13,10 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Fixed keyboard pushing up buttons on an admin fragment
 
 What are you planning on doing today?
-    - None
-
+    - Help with aspects of admin that are not complete
 Any impediments or stumbling blocks?
     - None
     
