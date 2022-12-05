@@ -39,10 +39,10 @@ Any impediments or stumbling blocks?
 Name: Faizan Naseer
 
 What have you done since yesterday?
-    - None
+    - Finished timeline algorithm and most of android integration
 
 What are you planning on doing today?
-    - None
+    - Tried to figure our listview implementation
 
 Any impediments or stumbling blocks?
     - None
