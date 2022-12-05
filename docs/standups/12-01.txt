@@ -13,10 +13,11 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
-
+    - Fixed the top toolbar for all fragments so all pages have a uniform looking toolar
+    - Fixed toolbar spazzing out
+    
 What are you planning on doing today?
-    - None
+    - Fix other bugs on admin pages
 
 Any impediments or stumbling blocks?
     - None
