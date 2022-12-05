@@ -27,10 +27,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Reviewed the course timeline algorithm
 
 What are you planning on doing today?
-    - None
+    - Add course code editing to admin
 
 Any impediments or stumbling blocks?
     - None
