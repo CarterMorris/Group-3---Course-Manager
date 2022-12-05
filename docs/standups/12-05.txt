@@ -1,7 +1,7 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Finished Timeline Generation
 
 What are you planning on doing today?
     - None
