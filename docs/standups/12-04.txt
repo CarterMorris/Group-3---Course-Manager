@@ -25,10 +25,12 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Add features to admin which allows you to change the course code of a course
+        - Changing the course code will update all other courses in the database that have it as a prerequisite
+        - Cannot change to a course code that already exists
 
 What are you planning on doing today?
-    - None
+    - Help with/review login MVP testing
 
 Any impediments or stumbling blocks?
     - None
