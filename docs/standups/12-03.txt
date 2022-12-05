@@ -1,10 +1,10 @@
 Name: Eddy Chen
 
 What have you done since yesterday?
-    - None
+    - Implemented a conversion from String type to Course type using database
 
 What are you planning on doing today?
-    - None
+    - Figure out how to use list view
 
 Any impediments or stumbling blocks?
     - None
