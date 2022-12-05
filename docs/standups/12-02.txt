@@ -17,6 +17,7 @@ What have you done since yesterday?
 
 What are you planning on doing today?
     - Help with aspects of admin that are not complete
+    
 Any impediments or stumbling blocks?
     - None
     
