@@ -13,10 +13,12 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Completed refactored the login module a second time to better conform with MVP
+    - Completed the entire testing suite for LoginPresenter, achieveing 100% line coverage
+    - removed many useless functions from several login files
 
 What are you planning on doing today?
-    - None
+    - Prepare the project and all documents for submission
 
 Any impediments or stumbling blocks?
     - None
