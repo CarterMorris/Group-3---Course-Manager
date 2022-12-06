@@ -25,10 +25,10 @@ Any impediments or stumbling blocks?
 Name: Carter Morris
 
 What have you done since yesterday?
-    - None
+    - Made the timeline look more appealing
 
 What are you planning on doing today?
-    - None
+    - Polish project and submit
 
 Any impediments or stumbling blocks?
     - None
