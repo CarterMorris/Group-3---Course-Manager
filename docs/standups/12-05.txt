@@ -13,7 +13,8 @@ Any impediments or stumbling blocks?
 Name: Ben Wang
 
 What have you done since yesterday?
-    - None
+    - Cleaned up the code and deleted useless comments and imports
+    - Fixed back arrow on studentfragment three
 
 What are you planning on doing today?
     - None
